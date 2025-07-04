@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: be a senior full-stack developer<br>🎲 Fun fact: ...</p>
+<p align="left">📚 I'm currently learning next js<br>🎯 Goals: be a senior full-stack developer<br>🎲 Fun fact: i can't code whitout listen to music</p>
 
 ###
 
