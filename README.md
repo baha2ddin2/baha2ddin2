@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **next js ,mongo db,**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react , expresse**
 
 - 📫 How to reach me **bahae4ddine@gmail.com**
 
